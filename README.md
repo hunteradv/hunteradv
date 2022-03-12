@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Henrique
+## Olá! Eu sou o Gustavo
 
 - 🌱 Estudando .NET
 - 😄 Pronouns: ele/dele
