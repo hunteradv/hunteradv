@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo
 
-- 🌱 Estudando .NET
+- 🌱 Estudando .NET e Angular
 - 😄 Pronouns: ele/dele
 
 <div align="center">
