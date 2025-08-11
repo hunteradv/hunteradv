@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo
+## Olá!
 
 - 🌱 .NET developer
 
